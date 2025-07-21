@@ -1,2 +1,2 @@
 # PCS-Data
-Innolux Electricity usage
+Innolux Electricity Usage
